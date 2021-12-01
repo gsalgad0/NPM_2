@@ -1,0 +1,19 @@
+{
+  "name": "npm-gsg",
+  "version": "1.0.0",
+  "description": "Modulo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsalgad0/NPM_2.git"
+  },
+  "author": "Gerardo Salgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsalgad0/NPM_2/issues"
+  },
+  "homepage": "https://github.com/gsalgad0/NPM_2#readme"
+}
